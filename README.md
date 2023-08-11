@@ -1,1 +1,1 @@
-# Garbage-classification
+# Garbage-classification using AI
